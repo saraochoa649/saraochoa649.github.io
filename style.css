@@ -1,0 +1,103 @@
+#foto {
+    margin-top: 10%;
+    margin-left: 10%;
+}
+#miFoto{
+    height: 300px;
+}
+#contenedor-Padre{
+    height: 1300px;
+    background-color:#ff14935c;
+    display: flex;
+    margin-left: 20%;
+    width: 60%;
+    margin-right: 20%;
+    flex-wrap: wrap;
+   
+}
+#NombreyTarjeta{
+    background-color: #ffffff4a;
+    height: 50%;
+    width: 100%;
+    margin-top:100px;
+    text-align: center;
+    padding: 3px;
+    
+    flex-direction: row;
+
+}
+
+#Nombre{
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+
+}
+
+#Tarjeta{
+    font-size: 20px;
+    font-family: 'Dancing Script', cursive;
+}
+
+#Contacto { 
+    background-color: #f9f9f9a8;
+    height: 50%;
+    width: 100%;
+    padding-top:10px;
+    flex-direction: row;
+    font-family: 'Amatic SC', cursive;
+    padding: 25px;
+    
+   
+
+}
+#ContenidoInicial{
+    height: 258px;
+    width: 50%;
+    
+    
+}
+.col-sm{
+    text-align:center ;
+   
+}
+.iconos{
+    width: 25px;
+}
+.informacionGeneral{
+    
+    width: 100%;
+    height: 100px;
+    margin-top:-290px;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 25px;
+    padding: 30px;
+    
+}
+.row{
+    text-align: center;
+   
+}
+#descripcion{
+    padding-left: 30px;
+    text-align: left;
+    padding: 30px;
+}
+.linea{
+    border-left: 6px solid #e615d15c;
+    height: 500px;
+}
+#cursos{
+    text-align: left;
+    padding: 30px;
+}
+#educacion{
+    font-weight: bold;
+}
+#CursosR{ 
+    font-weight: bold;
+}
+#redesSociales{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
